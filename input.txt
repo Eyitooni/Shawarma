@@ -1,0 +1,20 @@
+4 3
+REPORT
+ENTER-Hulk*
+ENTER-Harry Potter
+ENTER-Iron Man*
+ENTER-Thor*
+REPORT
+EXIT-Harry Potter
+ENTER-Luke Skywalker
+ENTER-Hawkeye*
+ENTER-James Bond
+ENTER-Black Widow*
+ENTER-Brad Pitt
+ENTER-Steve Rogers*
+REPORT
+EXIT-Luke Skywalker
+EXIT-Hulk*
+EXIT-Hawkeye*
+ENTER-Jack Bauer
+REPORT
